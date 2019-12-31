@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="https://github.com/google/google-java-format/releases/download/google-java-format-1.6/google-java-format-eclipse-plugin_1.6.0.jar" id="google-java-format-eclipse-plugin" version="1.6.0">
+   <feature url="features/google-java-format-eclipse-plugin_1.6.0.jar" id="google-java-format-eclipse-plugin" version="1.6.0">
       <category name="code-formatters"/>
    </feature>
    <category-def name="code-formatters" label="Code Formatters"/>
